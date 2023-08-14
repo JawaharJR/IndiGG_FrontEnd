@@ -1,0 +1,31 @@
+.participant-form-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .participant-form-input {
+    margin-bottom: 15px;
+  }
+  
+  .participant-form-submit {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .participant-form-submit:hover {
+    background-color: #0056b3;
+  }
+  
+  .participant-form-error {
+    color: #dc3545;
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
