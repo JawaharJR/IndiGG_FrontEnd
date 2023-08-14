@@ -1,4 +1,4 @@
-DEployed site : https://tournament-planner.netlify.app/
+Deployed site : https://tournament-planner.netlify.app/
 
 
 
